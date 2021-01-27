@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(color)
-  puts R [0]
+  puts R:{color[0]}
   puts O [1]
   puts Y [2]
   puts G [3]
